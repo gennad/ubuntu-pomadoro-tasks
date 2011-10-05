@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Ubuntu Pomadoro Tasks
+_Comment=UbuntuPomadoroTasks application
+Categories=GNOME;Utility;
+Exec=ubuntu-pomadoro-tasks
+Icon=ubuntu-pomadoro-tasks
+Terminal=false
+Type=Application
